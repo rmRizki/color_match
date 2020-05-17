@@ -1,6 +1,9 @@
 # color_match
 
-A new Flutter project.
+Casual color match game made with flutter
+
+## Screenshot
+![](img1.jpg)
 
 ## Getting Started
 
