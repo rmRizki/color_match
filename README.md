@@ -3,7 +3,7 @@
 Casual color match game made with flutter
 
 ## Screenshot
-![](img1.jpg)
+![](img1.png)
 
 ## Getting Started
 
